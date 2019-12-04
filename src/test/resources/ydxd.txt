@@ -1,0 +1,76 @@
+
+  {          "status":"success",
+            "update_time":"2019-03-18 02:10:00",
+            "transactions":[
+                {
+                    "calls":[
+                        {
+                            "update_time":"2019-03-18 02:09:17",
+                            "start_time":"2018-10-03 09:50:59",
+                            "init_type":"主叫",
+                            "use_time":45,
+                            "place":null,
+                            "other_cell_phone":"15663735400",
+                            "cell_phone":"17346597845",
+                            "subtotal":null,
+                            "call_type":null
+                        }
+                    ],
+                    "transactions":[
+                        {
+                            "update_time":"2019-03-18 02:09:17",
+                            "total_amt":0.64,
+                            "plan_amt":null,
+                            "cell_phone":"17346597845",
+                            "bill_cycle":"2018-11-01 00:00:00",
+                            "pay_amt":0.64
+                        }
+                    ],
+                    "smses":[
+                        {
+                            "update_time":"2019-03-18 02:09:17",
+                            "place":null,
+                            "other_cell_phone":"106915955326",
+                            "subtotal":0.1,
+                            "start_time":"2019-03-15 13:05:47",
+                            "cell_phone":"17346597845",
+                            "init_type":"发送"
+                        }
+                    ],
+                    "token":"e90509d333b54d28acb21eb25932fc14",
+                    "version":"1",
+                    "datasource":"chinatelecombj",
+                    "basic":{
+                        "update_time":"2019-03-18 02:09:17",
+                        "cell_phone":"17346597845",
+                        "idcard":"230125198605052674",
+                        "reg_time":"2017-07-01 00:00:00",
+                        "real_name":"何建东"
+                    },
+                    "juid":"",
+                    "nets":[
+                        {
+                            "update_time":"2019-03-18 02:09:17",
+                            "start_time":"2019-02-11 13:37:28",
+                            "subflow":10285,
+                            "use_time":0,
+                            "place":"115.170.140",
+                            "net_type":"无线上网(4G)",
+                            "cell_phone":"17346597845",
+                            "subtotal":0.3
+                        }
+                    ]
+                }
+            ],
+            "request_args":[
+                {
+                    "token":"e90509d333b54d28acb21eb25932fc14"
+                },
+                {
+                    "env":"www"
+                }
+            ],
+            "error_code":31200,
+            "error_msg":"请求用户数据成功"
+
+}

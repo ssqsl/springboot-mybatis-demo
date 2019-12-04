@@ -1,0 +1,6 @@
+{
+    "idCard":"110101199003077029",
+    "name":"甄游去",
+    "mobile":"15049002488",byYsMC
+    "originalCreditDataCode":"byMhMC"
+  }
