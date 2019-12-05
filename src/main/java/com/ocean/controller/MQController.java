@@ -1,3 +1,4 @@
+/*
 package com.ocean.controller;
 
 import org.slf4j.Logger;
@@ -31,3 +32,4 @@ public class MQController {
         }
     }
 }
+*/

@@ -18,8 +18,8 @@ public class UserController {
     private IUserService userService;
 
     @RequestMapping(value = {"/findAll"}, produces = {"application/json;charset=UTF-8"}, method = RequestMethod.GET)
-    public List<UserInfo> getAllUsers() {
-        List<UserInfo> list = userService.findAllUser();
-        return list;
+    public String getAllUsers() {
+        //List<UserInfo> list = userService.findAllUser();
+        return "199";
     }
 }
